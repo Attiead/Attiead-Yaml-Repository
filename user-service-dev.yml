@@ -1,4 +1,4 @@
 message:
   content: "Hello, user service! I am config server!"
 
-test: ${TEST}
+test: "{cypher}2170309bcd1fb8edf8426f3d8cfeef47d5b8364872c2f76f16d28c35ee278ed21dfbd1f677b1bc98631b3352d4a4bc65"
