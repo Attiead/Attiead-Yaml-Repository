@@ -1,2 +1,4 @@
 message:
   content: "Hello, user service! I am config server!"
+
+test: ${TEST}
