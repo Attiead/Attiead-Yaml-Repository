@@ -1,7 +1,7 @@
 message:
   content: "Hello, user service! I am config server!"
 
-test: "{cipher}78afb2c6b952f3224c6751aceda53c28bde7a10e5ce25c7280d310b71f7172dc3a593e90b7106537206ff32751afcd21"
+test: "{cipher}6a77faada3a16a0f41e6528a5280b5b4201b792f66551b6c1bcb62c3d0bfaa1b"
 
 test1: asdfasdf
 
